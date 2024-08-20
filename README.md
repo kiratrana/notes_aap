@@ -1,2 +1,2 @@
 # notes_app
-Create Notes Aap using React JS
+Create Notes App using React JS
